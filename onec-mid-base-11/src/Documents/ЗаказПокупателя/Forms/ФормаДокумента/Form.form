@@ -428,6 +428,10 @@
       <dataPath xsi:type="form:DataPath">
         <segments>Объект.Скидка</segments>
       </dataPath>
+      <handlers>
+        <event>OnChange</event>
+        <name>СкидкаПриИзменении</name>
+      </handlers>
       <extendedTooltip>
         <name>СкидкаРасширеннаяПодсказка</name>
         <id>170</id>
